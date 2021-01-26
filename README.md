@@ -10,4 +10,5 @@ Some preprocessing of wavs like trimming terminal/mid silence, removing loud noi
 ![alt text](https://github.com/ShihabYasin/wav-preprocessing/blob/master/3.png)
 
 
-## audio-lib contains some audio processing methods useful for RnD and audio related app development.
+## audio-lib 
+Contains some audio processing methods useful for RnD and audio related app development.
